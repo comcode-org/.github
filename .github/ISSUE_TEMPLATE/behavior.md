@@ -1,6 +1,6 @@
 ---
 name: Behavioral issue
-about: Use this template for issues where expected behavior does not match actual behavior, for example, a bug. Since this type of issue implicitly specifies a fix, it should be used when there is existing agreement in the correct behavior. Use a general issue otherwise.
+about: For issues where there is existing understanding of the correct behavior. e.g. bugs.
 title: <title describing problem and situation. e.g. accts.balance causes game to crash>
 labels: needs triage
 ---
