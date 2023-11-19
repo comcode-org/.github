@@ -12,9 +12,9 @@ labels: needs triage
 1. launch the game
 1. type accts.balance and hit enter
 
-**expected** the command completes successfully
+**Expected**: the command completes successfully
 
-**actual** the game crashes
+**Actual**: the game crashes
 
 ### Impact
 
