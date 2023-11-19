@@ -3,6 +3,7 @@ name: General issue
 about: Use this template for general issues
 title: <title describing problem. e.g. We don't have a consistent issue creation format>
 labels: needs triage
+note: This issue template is duplicated in the .github repo; keep both in sync
 ---
 
 ### Problem
