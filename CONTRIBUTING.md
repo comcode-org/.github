@@ -32,21 +32,10 @@ More details on our values and other agreements in the [working agreements docum
 
 Issues are artifacts which are used to clarify and document specific problems. Issues are created before changes to allow us to focus our changes, discuss the priority and scope of the problem being described.
 
+- We use issue templates.
+- Issues should be created on the appropriate repo where the issue can be actioned on.
 - At a minimum, Issues should describe a specific problem
-
-> ### problem
->
-> Typing a specific command causes the game client to crash
-
 - Some issues are about specific changes in behaviors. These issues should include reproduction (repro) steps with expected and actual behaviors
-
-> 1. launch the game
-> 1. type this command and hit enter
->
-> expected: the command completes successfully
->
-> actual: the game crashes
-
 - Sometimes Issues are used as chores or tasks which do not have corresponding changes or PRs in GitHub. These types of Issues are generally part of a larger problem or project that is being solved.
 - For some simple cases where the problem being solved is very clear, no issues are required to create pull requests (e.g. typo-fixes in documentation). These PRs should include enough documentation to describe the problem.
 - Our Issue creation process and policy is new. Please help us by asking questions / giving feedback in discord or github.
