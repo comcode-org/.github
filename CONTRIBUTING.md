@@ -26,6 +26,8 @@ All changes are proposed to address an Issue and are created as Pull Requests (P
 - We make Pull Requests to make changes which address Issues
 - Our Pull Requests are focused and make the smallest change possible to fix Issues
 
+More details on our values and other agreements in the [working agreements document](https://github.com/comcode-org/people_and_process/blob/main/conduct/working_agreements.md).
+
 ### Creating Issues
 
 Issues are artifacts which are used to clarify and document specific problems. Issues are created before changes to allow us to focus our changes, discuss the priority and scope of the problem being described.
