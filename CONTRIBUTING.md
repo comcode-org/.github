@@ -10,7 +10,7 @@ This document outlines the standards, best practices, and guidelines we adhere t
 
 All changes are proposed to address an Issue and are created as Pull Requests (PR) on a topic branch. Process overview:
 
-1. [Create an issue](#creating-issues)
+1. [Create an Issue](#creating-issues)
 1. [Create a topic branch](#creating-branches)
 1. [Develop the fix on the branch](#developing-fixes)
 1. [Create a Pull Request off of the branch](#creating-pull-requests-prs)
@@ -32,12 +32,12 @@ More details on our values and other agreements in the [working agreements docum
 
 Issues are artifacts which are used to clarify and document specific problems. Issues are created before changes to allow us to focus our changes, discuss the priority and scope of the problem being described.
 
-- We use issue templates.
-- Issues should be created on the appropriate repo where the issue can be actioned on.
+- We use Issue templates.
+- Issues should be created on the appropriate repo where the Issue can be actioned on.
 - At a minimum, Issues should describe a specific problem
-- Some issues are about specific changes in behaviors. These issues should include reproduction (repro) steps with expected and actual behaviors
+- Some Issues are about specific changes in behaviors. These Issues should include reproduction (repro) steps with expected and actual behaviors
 - Sometimes Issues are used as chores or tasks which do not have corresponding changes or PRs in GitHub. These types of Issues are generally part of a larger problem or project that is being solved.
-- For some simple cases where the problem being solved is very clear, no issues are required to create pull requests (e.g. typo-fixes in documentation). These PRs should include enough documentation to describe the problem.
+- For some simple cases where the problem being solved is very clear, no Issues are required to create pull requests (e.g. typo-fixes in documentation). These PRs should include enough documentation to describe the problem.
 - Our Issue creation process and policy is new. Please help us by asking questions / giving feedback in discord or github.
 
 ### Creating branches
@@ -59,10 +59,10 @@ Issues are artifacts which are used to clarify and document specific problems. I
 
 ### Creating Pull Requests (PRs)
 
-- A pull request is opened once a fix for an issue has been developed on a topic branch
+- A pull request is opened once a fix for an Issue has been developed on a topic branch
 - PRs should target the default branch for merge
 - PR titles should be a summary of what was implemented in the PR
-- The description of the PR should contain a reference to an issue which it closes using the [github notation](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) e.g. `fixes #XX`, `fixes #XX, fixes #YY`
+- The description of the PR should contain a reference to an Issue which it closes using the [github notation](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) e.g. `fixes #XX`, `fixes #XX, fixes #YY`
 - Context information for how the fix works and why things were breaking in the way that they were should be included in the PR description instead of commit messages
 - If the changes require updates to any documentation, diagrams or other content which needs to stay in sync or be added, this should be included in the PR as well
 - Applicable test cases or automation updates should be included in the PR
