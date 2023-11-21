@@ -45,7 +45,7 @@ Issues are artifacts which are used to clarify and document specific problems. I
 - Topic Branches are short-lived branches where patch development happens
 - Topic Branches are deleted after merge
 - Topic Branches are labelled with the creators' name, but they are communal development spaces where anyone is encouraged to contribute
-- Topic Branches are created off of the development branch `dev`
+- Topic Branches are created off of the default branch
 - Topic Branches follow the naming convention `username` `separator` `topic`, e.g. `janedev-kooltextfix`, `janedev-patch-1`, `janedev/wild-star`
 - `username` can be any identifiable moniker. GitHub username is preferred
 - `separator`s can be any of `/` (slash) `-` (dash) or `_` (underscore)
