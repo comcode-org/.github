@@ -77,7 +77,7 @@ As reviewers, PRs should be approved and merged if they are `Correct` as defined
 1. All automated and manual validation tests pass on the topic branch on at least the primary platform
 1. The product builds successfully on at least the primary platform
 1. All applicable style and contribution guides are met
-1. The PR is a focused and accurate answer to one agreed on Issue
+1. The PR is a focused and accurate answer to one agreed-on Issue
 
 In general, reviewers are acting in the role of maintainers in the open-source model and have the following responsibilities:
 
@@ -93,7 +93,7 @@ In general, reviewers are acting in the role of maintainers in the open-source m
 1. Are responsible for getting PRs merged
     1. Make changes to fix correctness directly in branches
     1. Follow up regularly on blockers to merging or open conversations
-    1. Create and encourage creation of issues to address new problems / fixes
+    1. Create and encourage creation of Issues to address new problems / fixes
 1. Share non-blocking improvement feedback
     1. Things like typos, spelling errors, capitalization, rephrasing (Depending on repo-specific styles some of these might be required)
     1. Ask questions for reviewer's own understanding & learning
