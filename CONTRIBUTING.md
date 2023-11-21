@@ -10,7 +10,7 @@ This document outlines the standards, best practices, and guidelines we adhere t
 
 All changes are proposed to address an Issue and are created as Pull Requests (PR) on a topic branch. Process overview:
 
-1. [Create an issue](#creating-issues)
+1. [Create an Issue](#creating-issues)
 1. [Create a topic branch](#creating-branches)
 1. [Develop the fix on the branch](#developing-fixes)
 1. [Create a Pull Request off of the branch](#creating-pull-requests-prs)
@@ -32,12 +32,12 @@ More details on our values and other agreements in the [working agreements docum
 
 Issues are artifacts which are used to clarify and document specific problems. Issues are created before changes to allow us to focus our changes, discuss the priority and scope of the problem being described.
 
-- We use issue templates.
-- Issues should be created on the appropriate repo where the issue can be actioned on.
+- We use Issue templates.
+- Issues should be created on the appropriate repo where the Issue can be actioned on.
 - At a minimum, Issues should describe a specific problem
-- Some issues are about specific changes in behaviors. These issues should include reproduction (repro) steps with expected and actual behaviors
+- Some Issues are about specific changes in behaviors. These Issues should include reproduction (repro) steps with expected and actual behaviors
 - Sometimes Issues are used as chores or tasks which do not have corresponding changes or PRs in GitHub. These types of Issues are generally part of a larger problem or project that is being solved.
-- For some simple cases where the problem being solved is very clear, no issues are required to create pull requests (e.g. typo-fixes in documentation). These PRs should include enough documentation to describe the problem.
+- For some simple cases where the problem being solved is very clear, no Issues are required to create pull requests (e.g. typo-fixes in documentation). These PRs should include enough documentation to describe the problem.
 - Our Issue creation process and policy is new. Please help us by asking questions / giving feedback in discord or github.
 
 ### Creating branches
@@ -59,10 +59,41 @@ Issues are artifacts which are used to clarify and document specific problems. I
 
 ### Creating Pull Requests (PRs)
 
-(( TODO: Explain when to create a PR and what to put in the message ))
-(( TODO: Explain which branch to target for a PR ))
+- A pull request is opened once a fix for an Issue has been developed on a topic branch
+- PRs should target the default branch for merge
+- PR titles should be a summary of what was implemented in the PR
+- The description of the PR should contain a reference to an Issue which it closes using the [github notation](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) e.g. `fixes #XX`, `fixes #XX, fixes #YY`
+- Context information for how the fix works and why things were breaking in the way that they were should be included in the PR description instead of commit messages
+- If the changes require updates to any documentation, diagrams or other content which needs to stay in sync or be added, this should be included in the PR as well
+- Applicable test cases or automation updates should be included in the PR
+- If any process or policy was not followed, notes should be provided to reviewers in the PR description explaining why
 
 ### Reviewing Pull Requests
 
-(( TODO: Explain how to review changes ))
-(( TODO: Explain what the requirements for approving are ))
+Our Pull Request review process values [optimistic merging](https://github.com/openpracticelibrary/openpracticelibrary/issues/208) from [Pieter Hintjens](http://hintjens.com/blog:106). While we don't adhere strictly to the [c4 process spec](https://rfc.zeromq.org/spec/42/#23-patch-requirements), the spirit of focusing on one problem at a time and making 'good enough' / 'correct' incremental progress is critical to our process.
+
+As reviewers, PRs should be approved and merged if they are `Correct` as defined by following criteria:
+
+1. All automated and manual validation tests pass on the topic branch on at least the primary platform
+1. The product builds successfully on at least the primary platform
+1. All applicable style and contribution guides are met
+1. The PR is a focused and accurate answer to one agreed-on Issue
+
+In general, reviewers are acting in the role of maintainers in the open-source model and have the following responsibilities:
+
+1. Are respectful stewards of Correctness
+    1. Do not enforce rules outside of documentation
+    1. Teach Correctness rules by referencing documentation and stating how it applies (e.g. PR focus: these lines do not apply to fixing the Issue)
+    1. Update documentation and propose improvements based on reviewing experience
+    1. Update automation when it doesn't match documentation
+    1. Create automation to improve review process
+1. Use good judgement
+    1. Reduce their bias by seeking additional opinion
+    1. Don't enforce process to be pedantic, be flexible
+1. Are responsible for getting PRs merged
+    1. Make changes to fix correctness directly in branches
+    1. Follow up regularly on blockers to merging or open conversations
+    1. Create and encourage creation of Issues to address new problems / fixes
+1. Share non-blocking improvement feedback
+    1. Things like typos, spelling errors, capitalization, rephrasing (Depending on repo-specific styles some of these might be required)
+    1. Ask questions for reviewer's own understanding & learning
