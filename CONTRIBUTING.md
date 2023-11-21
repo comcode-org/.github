@@ -54,8 +54,20 @@ Issues are artifacts which are used to clarify and document specific problems. I
 
 ### Developing fixes
 
-(( TODO: Explain how large a commit should be (how many changes) ))
-(( TODO: Explain what commit messages should be like ))
+Fixes for issues should be as concise and focused as possible. In general, only one issue should be fixed per PR and often PRs will be opened with only a single commit.
+
+#### Commits
+
+Individual commits should be complete and correct. They shouldn't break any builds or leave out any correctness rules or requirements. Additional commits should be used to fix issues with correctness and the review process.
+
+Commit messages should be concise and clearly describe the scope of the changes that were submitted. It should complete the sentence "When applied, this commit will..."
+
+Some examples:
+ - `Fix shell window misalignment after new script output`
+ - `Add description for AddCatchUpLines in Scrolling flowchart`
+ - `Rewrite outdated comments for HackmudApi.InitTrade`
+
+Instead of including them in the commit message, please add additional information such as implementation details and fixed issues in your PR. If your commit is co-authored with someone, please [include it in your commit body in the conventional format](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors#creating-co-authored-commits-on-the-command-line), along with mentioning it in your PR.
 
 ### Creating Pull Requests (PRs)
 
