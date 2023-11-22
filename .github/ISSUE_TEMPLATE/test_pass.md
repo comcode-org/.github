@@ -17,8 +17,8 @@ If anything along the way has prevented the test from being run, or the expected
 
 1. Click the Issue symbol on the right hand side when hovering over the task line to create an issue with the task name.
 1. Copy the body of the failed test case into the issue
-1. Add an **Actual** line after the **Expected** line to describe the behavior
-1. Or edit the steps to describe where the failure happened (earlier in the case) and adjust the actual and expected
+1. Add an **Actual** line after the **Expected** line to describe the difference in behavior and the failure
+1. Or edit the steps to describe where the failure happened (earlier in the case) and adjust both the actual and expected
 1. Modify the issue title to accurately describe the failure (like you would for a behavioral issue)
 
 ## Tests
