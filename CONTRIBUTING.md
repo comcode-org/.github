@@ -63,9 +63,10 @@ Individual commits should be complete and correct. They shouldn't break any buil
 Commit messages should be concise and clearly describe the scope of the changes that were submitted. It should complete the sentence "When applied, this commit will..."
 
 Some examples:
- - `Fix shell window misalignment after new script output`
- - `Add description for AddCatchUpLines in Scrolling flowchart`
- - `Rewrite outdated comments for HackmudApi.InitTrade`
+
+- `Fix shell window misalignment after new script output`
+- `Add description for AddCatchUpLines in Scrolling flowchart`
+- `Rewrite outdated comments for HackmudApi.InitTrade`
 
 Instead of including them in the commit message, please add additional information such as implementation details and fixed issues in your PR. If your commit is co-authored with someone, please [include it in your commit body in the conventional format](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors#creating-co-authored-commits-on-the-command-line), along with mentioning it in your PR.
 
@@ -94,18 +95,18 @@ As reviewers, PRs should be approved and merged if they are `Correct` as defined
 In general, reviewers are acting in the role of maintainers in the open-source model and have the following responsibilities:
 
 1. Are respectful stewards of Correctness
-    1. Do not enforce rules outside of documentation
-    1. Teach Correctness rules by referencing documentation and stating how it applies (e.g. PR focus: these lines do not apply to fixing the Issue)
-    1. Update documentation and propose improvements based on reviewing experience
-    1. Update automation when it doesn't match documentation
-    1. Create automation to improve review process
+   1. Do not enforce rules outside of documentation
+   1. Teach Correctness rules by referencing documentation and stating how it applies (e.g. PR focus: these lines do not apply to fixing the Issue)
+   1. Update documentation and propose improvements based on reviewing experience
+   1. Update automation when it doesn't match documentation
+   1. Create automation to improve review process
 1. Use good judgement
-    1. Reduce their bias by seeking additional opinion
-    1. Don't enforce process to be pedantic, be flexible
+   1. Reduce their bias by seeking additional opinion
+   1. Don't enforce process to be pedantic, be flexible
 1. Are responsible for getting PRs merged
-    1. Make changes to fix correctness directly in branches
-    1. Follow up regularly on blockers to merging or open conversations
-    1. Create and encourage creation of Issues to address new problems / fixes
+   1. Make changes to fix correctness directly in branches
+   1. Follow up regularly on blockers to merging or open conversations
+   1. Create and encourage creation of Issues to address new problems / fixes
 1. Share non-blocking improvement feedback
-    1. Things like typos, spelling errors, capitalization, rephrasing (Depending on repo-specific styles some of these might be required)
-    1. Ask questions for reviewer's own understanding & learning
+   1. Things like typos, spelling errors, capitalization, rephrasing (Depending on repo-specific styles some of these might be required)
+   1. Ask questions for reviewer's own understanding & learning

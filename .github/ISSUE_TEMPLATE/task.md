@@ -2,7 +2,7 @@
 name: Project Task issue
 about: Use this template for writing down work which we've identified as part of project process or other work breakdown.
 title: <title describing the work to do. e.g. Deploy app to steam, e.g. Announce the changes in discord>
-labels: 
+labels:
 ---
 
 ### Description

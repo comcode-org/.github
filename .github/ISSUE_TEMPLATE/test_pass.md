@@ -2,16 +2,16 @@
 name: Manual Test Pass
 about: Used to track running a manual test pass. Only create this item when following test plan instructions.
 title: Manual Test Pass
-labels: 
+labels:
 ---
 
 This issue is to track running a manual test pass. Used for build validation or release.
 
 ## Running Tests
 
-For each case in the `Tests` block below, run the steps. Then check the expected state after the steps have been run: 
+For each case in the `Tests` block below, run the steps. Then check the expected state after the steps have been run:
 
-If the expected state matches the actual state, check the checkbox inside the case to mark the task as complete. 
+If the expected state matches the actual state, check the checkbox inside the case to mark the task as complete.
 
 If anything along the way has prevented the test from being run, or the expected state does not match the actual state, then create an Issue to file the test failure:
 
