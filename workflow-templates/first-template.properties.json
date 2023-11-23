@@ -1,7 +1,0 @@
-{
-  "name": "first template",
-  "description": "first template starter workflow.",
-  "iconName": "octicon checklist",
-  "categories": ["code-review"],
-  "filePatterns": [".*\\.md$"]
-}

@@ -1,0 +1,6 @@
+{
+  "name": "Prettier Linter",
+  "description": "Template for setting up prettier lint as a PR check.",
+  "iconName": "octicon checklist",
+  "categories": ["code-review"]
+}
