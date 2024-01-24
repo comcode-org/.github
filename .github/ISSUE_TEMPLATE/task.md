@@ -24,9 +24,13 @@ In order for the changes to get to players, we need to deploy them to steam.
 
 <!-- list any design tasks that are required to be done as part of the task. e.g. UI mockups / redlines, flow / sequence diagrams -->
 
+- [ ] create layout
+
 ### Tests
 
 <!-- list any unit, integration, end-to-end, manual or other tests -->
+
+- [ ] unit tests
 
 ### Code
 
@@ -46,7 +50,3 @@ In order for the changes to get to players, we need to deploy them to steam.
 <!-- List other issues which need to be completed for this issue to be completed -->
 
 - [ ] #XX
-
-### Notifications
-
-<!-- Describe any additional notifications or specific follow up that needs to be done after the issue is completed. e.g. ping specific project members that things have been updated. -->
