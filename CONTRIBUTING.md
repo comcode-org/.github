@@ -33,7 +33,7 @@ More details on our values and other agreements in the [working agreements docum
 Issues are artifacts which are used to clarify and document specific problems. Issues are created before changes to allow us to focus our changes, discuss the priority and scope of the problem being described.
 
 - We use Issue templates.
-- Issues should be created on the appropriate repo where the Issue can be actioned on.
+- Issues should be created on the appropriate repository where the Issue can be actioned on.
 - At a minimum, Issues should describe a specific problem
 - Some Issues are about specific changes in behaviors. These Issues should include reproduction (repro) steps with expected and actual behaviors
 - Sometimes Issues are used as chores or tasks which do not have corresponding changes or PRs in GitHub. These types of Issues are generally part of a larger problem or project that is being solved.
