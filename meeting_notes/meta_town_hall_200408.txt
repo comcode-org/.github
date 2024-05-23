@@ -1,0 +1,470 @@
+Thanks to @kaitlyn for documenting this exchange.
+
+---
+
+zez: poll: who likes pvp?
+
+people: i like it when i'm prepared / i like to watch others
+
+zez: i promise that i will not pvp anyone until Alpha's loc [kahoots_corp] leaks, aside from defending myself against attacks
+
+kaitlyn: why do you want to retire from pvp?
+
+zez: it's not that i don't want to [PVP], i just can't
+
+matr1x: i know that it's a shitty situation for you [that nobody likes to PVP], but it's also a shitty situation for everyone else
+i don't have the energy to PVP you, i'm sure you could still do it if you wnated to, but i hate it so much when i'm trying to do stuff for everyone else, and then i just get breached by you
+especially because i manually farm all my stuff. i either farm T3 by hand or i pay real money for my GC
+and then you just breach me and its all gone in an instant
+if i wanted to, i could just be a shitter and rotate users every couple days, but you don't want that
+and like, the worst part is that  i can't reasonably get my stuff back
+after you take my GC, i go and try and breach your bank, but i essentially have 1 day to breach you, because i don't have GC reserves for my crons.
+and even then, it's just a bullshit RNG waiting game
+and even if i breach you, even if i roll the odds on l0ckjaw, l0g_wr1t3r, and DATA_CHECK, even if i get to your binmat, you throw all my GC away. you'll scatter it in your botnet, or you'll just send it to trust.
+
+matr1x: you might as well send my GC to trust.
+at least then i don't feel the need to play a cat and mouse game with it
+there's a reason i don't equip binmat, i'm standing against it's very concept in it's current implementation
+i'd be too tempted to panic dump if i gave my bank binmat.
+
+zez: until very recently my bank held all my gc and didn't have a panic dump for binmat
+
+matr1x: right, but now you do
+you couldn't resist the temptation.
+and now getting the GC back if you do breach me is a complete and utter exercise in futility, because you can just juggle it forever.
+
+kaitlyn: is your GC distributed now, or do you panic now?
+
+zez: my GC is distributed across all my users and panic sends when binmat
+
+skii: to be honest, if you didn't farm T3 by hand (and farmed via bots instead), you wouldn't have to do diceroll for l0ckjaw
+
+matr1x: yeah, i could spend a shitton of effort making an OOG bot to annihilate T3
+just like i could solve connect, or find the final gibson user, or make content, or do literally anything else
+
+matr1x: i don't want to have to feel like i'm pushing the game to it's absolute limits just to keep up
+if i actually put all my clients of permanent T3 farming, i could probably kill the server
+
+matr1x: and even then, fucking farming T3 defeats the point of you pvping mem cuz i'm not chasing it back. i'm just chasing GC off the NPCs.
+"farm it off NPCs" is basically just feeding zez with more GC when he breaches me again, cuz he can wait through the shitty tedious endless RNG wauiting
+like come on zez, is starting at the l0ckjaw message for 2 hours really that entertaining?
+
+zez: i don't get stuck on jaws that long
+
+matr1x: you'll be seeing a lot of it over the course of a hack surely.
+
+zez: i also rarely just hack 1 user. i attack multiple
+
+matr1x: after all, you only have about a 3% chance of getting the breach, even when you're past l0ckjaw
+------
+^ from skii, thank you skii
+
+v from kaitlyn
+------
+matrix: there is absolutely no counterplay to you
+I can't kick you out of the game, I can't keep you away from my loc,
+I can't even disable you for too long unless you literally just want me to permabreach you
+you had the wrath of the entirety of kahoots, wetware and EZ strike you down in one go
+and essentially remove all of your ability to act at the time, right zez?
+
+zez: that was fun, but yeah I couldnt act at the time, was working
+
+matrix: But less than a week later pvpbot was back up in full force
+It's completely fucking pointless
+
+matrix: So really our actions did nothing
+the only thing that actually made you unable to act was that you were busy with real life
+meaning nothing we did mattered
+even when you had basically everything you've worked for razed in one go
+
+matrix: I guess the point is, like ghem talked your ear off about: there's no counterplay to your attacks and everything I lose is basically impossible to get back. and it sucks
+If I lose GC, I'm gonna have to either farm it again by hand or trade bits with kahoots for a bailout that you'll inevitably steal again
+I'm sure if the community was larger you'd have another zez that you could just keep meatgrinding against
+but like, my god it's literally just a wasting war
+The best PvP interaction I've ever had in the MUD was KPvMC, and most of that wasn't even breaching
+but at least there was spirit behind it; and emotion
+here it's literally just like a fucking mosquito keeps draining my money
+it's piss-easy for you to breach me and there's no recourse for me against you
+
+dtr: short version:
+Current defense meta stops "rational" attacker in their tracks (that is, attacker that cares about earning a profit reliably)
+Current defense meta can do absolutely nothing against an attacker that just wants to attack and is ok losing in the process.
+
+so current defense is effectively impenetrable to everyone but zez, and really just a speed bump to zez, if that
+
+As I said to zez last night: i suspect if he gave all his tooling and resources to matr1x, my defense would hold up against it without too much of a problem.
+Because I don't think matr1x would be willing to take a loss. but zez is.
+( to be fair: THIS IS NOT a problem with zez. Zez is doing this right IMO. )
+
+zez: I dont know how to fix this problem, but when I was breached and had all my things stolen, that was fun for me. It showed me flaws in my infra, and I had to rebuild my cron net back from almost nothing.
+
+zez: before I played hackmud, I played rust solo. I was raided many times and had to rebuild. I found it fun, and was able to get revenge most of the time.
+
+skii: (maybe the reason why i feel the same way as zez is bcuz i played a shitton of solo rust too)
+
+jacob: i enjoy ur pvp :(
+but i can't do anythign to fight back
+
+ghamb: hey i recognize my own argument
+one, j4c0b youve not experienced his pvp
+two, zez is allowed to pvp. the problem isnt zez's pvp is unfun
+
+ghamb: the problem lies with the game mechanics regarding counter play
+and the community pension for hoarding
+
+matrix: I mean if there was proper counterplay to what zez does then I'd just be some loser complaining who needs to nut up or shut up
+but right now literally all I can do is complain
+and vainly hope that at some point one of my complaints/pleads gets through to you
+
+[ alpha and kaitlyn disagreed on the value of skii & jacob's comments ]
+ghamb: part of the problem is the position of just saying that because of liking the idea of pvp without actually experiencing
+theres also a general aire of frustration regarding the topic
+
+zez: I did pvp jacob btw
+
+ghamb: did you tho
+how many week did you spend flooding him consistently?
+
+zez: uh... 20 mins? 30 tops
+
+ghamb: exactly man
+once again, as i said last night when i brought up negative points about everyone in the channel
+theres not a fault in single person regarding gameplay
+its what the game we play allows
+and its coping with whats presented
+
+sean: comment to be added to the convo record:
+- when people grouped up to destroy zez' infra at the time, everyone thought it was great. even zez.
+
+zez: see thats what I thought too sean, but people are now telling me it wasnt fun
+
+alpha: The issue is we didn't do it because it was fun. We did it to stop the PVP bot that was harassing all of us.
+It was means to an end
+And on top of that, it didn't really achieve its desired goal, which was discouraging.
+Because within a week zez had his infra back and PVP bot was back on.
+
+zez: but you managed to take all my gc and dozens of purples and other good upgrades
+
+alpha: Yes but that wasn't the goal.
+That was just a side effect of going scorched earth
+
+zez: I just dont see how you guys didnt have fun, teaming up with a full group, taking down an entire botnet, and profiting a lot of things
+
+alpha: We didn't (ED NOTE: didn't profit?)
+Because we refunded losses *before* distributing assets
+
+dtr: i'm fairly sure we alllost GC on that overall
+i.e. we took less than you took from us
+so it stopped the bleeding, a little, but wa still a losing proposition
+
+dtr: slow losing is ok if there's an end in sight. if there isn't, it's not even worth it to lose slower.
+may as well lose fast and get it over with.
+
+alpha: It was fun in the moment, yes.
+However the only reason I brought the group together was out of desparation
+We (kahoots) weren't even on good terms with WE at the time
+
+dtr: ye. it bought a week, made the losses slow. we could do that again any time but haven't because the effort involved is not worth what is gained.
+
+ghamb: did they even mention the parts about others doing the bad
+or has it been a fuck zez thing
+
+zez: ? this isnt a fuck zez thing I dont think
+
+alpha: It's just a PvP discussion
+It's worth noting a lot of us do enjoy PvP in short bursts. I'm sure dtr enjoyed the magma vs. EZ war at least a little.
+
+dtr: not really. it's one of the two most haunting moments in my hackmud career.
+
+dtr: like, there's maybe 3 decisions that, if I could go back in time and fix, I would do in a heartbeat. Engaging in that war and the subsequent decision to go scorched earth (which i pushed hard for) is one of them.
+
+ghamb: ya cool pvp
+so
+did u bring up ur loc
+or everyone lynchpinning dtr
+
+alpha: No one's lynchpinning anyone dude
+
+matrix: I don't wnat to lynchpin dtr
+I've asked him repeatedly over the course of the last year if he wants help
+In fact I asked him last night if he wants me to withdraw everything I'm holding with him and he said it'd hurt him more
+Hell when dtr was being flooded by zez at almost max speed, I came in with my own l0g flooding to buy dtr some time
+
+ghamb: While I appreciate trying to lend aid to dtr when he needed it, i feel you more meant for it because i was vocally complaining about it but it should have been a goto anyways, even tho he did say he didnt need it. Dtr can be somewhat reserved in asking others to help and even past that given the state of pvp theres not much aid to actually yield.
+But there a great deal many things wrong with pvp including the fact that a play who has been afk for like a year more or less due to preoccupation can hold a slot on users.top with impunity seemingly.
+
+ghamb: Nonmechanic wise the communities obession with hoarding but also with not actually wanting to do the defending, taking note here that defending is a tedious and somewhat perm decision, is somewhat insane as well. It's not like there's a cooldown period. That said, zez should be able to play the game as it is.
+it's sucks to be targetted by it and there is no counterplayer, and frankly he targets people that he considers to be challenge so it is somewhat flattering, at least in the case of likely dtr and yourself
+
+dtr: ( re cron deaths, just for a taste of how bad mine were yesterday: i shut down my corn reloader for 5 minutes to do gibson. it took an hour to catch back up. Over about an 18 hour period, there were precisely two 30-second periods where i didn't lose any crons. )
+
+ghamb: dtr, zez doesnt get the same insight others do and isnt aware of those issues
+and typically when attacked there is always an unconfirmable issue that he should stop for
+
+dtr: ye. i mean, he can do the same tests I do to measure server perf.
+
+ghamb: could but relatively unreasonable
+he doesnt need a server barometer to pvp
+
+dtr: and last action will tell him how my crons are doing.
+its confirmable, just awkward.
+
+zez: I dont last action check anyones users other than my own, and the only thing I know about server performance is that my own parse time is averaging 1000ms and my crons have not died frequently recently
+
+MOSTLY UNRELATED BOT STUFF -----
+skii: i feel like, if we get some form of s2s (like the auto one you mentioned dtr), there would be a LOT less need for OOG botting in general
+Same if we got chats.history or something
+
+alpha: That's not true though
+Because crons are slow, and costly
+OOG is fast and free
+
+dtr: as sean has been saying, too: we'll expand to fill any hypothetical server upgrades. Unless sean expands like 100x overnight, server upgrades won't actually make anything better and might make things worse. and even if he did a 100x expansion, we'd fill that in a week.
+
+matrix: When was the last time you refactored your botnet code, deetr?
+
+dtr: continuously. right now there is only one potential change i could make to reduce load w/o jumping to sts (which is my next goal, and it would only shave about 5 to 6k chars off each user. drop in the bucket.
+
+dtr: probably the best thing i could do for my parse time is add return to the top of hack.devops
+(ED NOTE: hack.devops is a distributed brute force effort in order for us to get into the DEVOPS chat channel)
+but people legitimately want to see that, so I'm not gonna shit on that to help my users out.
+
+matrix: you could just remove it from your cron net or smth
+I imagine most of your brute effort comes from OOG
+
+dtr: right, but the problem isn't it's parse time
+the problem is people autoing it.
+you auto devops, every server gets extra load. my crons die.
+( not you specifically; anyone )
+
+dtr: basically, we're saturating the server, so it's now a zero-sum game
+anything I do to reduce my workload will help me a little, but also help you and zez and alpha a little
+so maybe i shave 20% out of my scripts, and see 5% gains. and zez also sees 5% gains
+
+matrix: I mean if you want deetr I can just turn devops shit off
+if it benefits your cron net
+
+dtr: that's a loss for me. I'd rather not give zez (or you or fira or alp) the improvements.
+
+matrix: but in theory you'll slurp up the unsaturated server space right
+
+zez: but zez marto fira and alpha dont have the problems you do
+
+dtr: eh. right now it's probably ok. Once we finish that project it goes away.
+because other than marto they run fuck all public infra
+and i'm not sure how much marto runs that actually needs cron work
+
+matrix: I just throw on brute.midsec
+(ED NOTE: brute.midsec is dtr's catch-all "do any brute force job we have that is midsec or higher" script)
+
+dtr: all my bots have to keep ls updated (and ls is huge). all my bots have to keep market watch updated (and market watch is huge). ~half my bots are needed for salami.slice (medium sized code). All my bots keep profiles updated for kait so she doesn't have to do that, etc etc etc.
+
+dtr: with sts, i can move these to like "do profiles for 1 hour a day, then not" and actually save parse time, which i'm looking forward to implementing. i can keep salami out of my net until there are transactions. and so on.
+this is where sts will help me; i can shift things that don't NEED to be constant to actually not being constant.
+
+dtr: i could run ls on fewer users, and then remove ls code from the users no longer running it, but then those fewer users would spend more time updating ls (more sectors each), and then they can do less other work, and.... I really prefer mostly homogenous users rather than specialized buckets.
+
+------
+
+zez: I just dont like being held responsible for "hurting the servers" when myself and others do not notice any issues.
+
+alpha: I don't think anyone is holding you responsible for that
+It's not your fault the servers are struggling
+Just the harsh reality
+
+zez: I'm just saying, when I attack dtr, dtr loads in 8 locs into his botnet, hits tons of parse errors, and says the servers are on fire. nobody else is hitting those errors because nobody else is running that sized infra + 8 locs
+
+dtr: agree there. that's not your fault
+but it basically gives me a community good, server good, self good; pick 2 scenario
+i won't screw the community if i can help it
+i won't skimp on defense
+so i burn the servers.
+
+ghamb: (SHITPOST BUT INCLUDED FOR CONTEXT)
+remove loc hardcoding :D
+ez fix
+money plz sean
+
+dtr: that's the plan wit sts
+the other option is i just switch to the old plan of rotating users every 2 days
+i have the retire slots for tat
+move all my gc there instead of hiding it.
+perfect defense, 0 load
+
+kaitlyn: and no buffers
+
+dtr:
+it's not even hard. i could do that in a day and never worry again
+but that's more unfair to zez and other attackers.
+
+ghamb: it's not even hard. i could do that in a day and never worry again
+
+dtr: i don't want perfect defense. i just want defense that's worth doing.
+
+ghamb: well thats unfair dtr
+because your current defense is worth doing
+
+dtr: it really isn't.
+
+ghamb: thats verifiably untrue
+
+dtr: the ony rason i do it is because i've got allies that i don't wnat showing up on users.top if i unbuffered
+(ED NOTE: dtr's "buffers" are his users filling up most positions on users.top; a large majority of his GC is spread across all of his users, with a few having more than the rest. he is doing this to hide his own and others' GC balances from users.top)
+once they all migrate their gc, i can unbuffer users.top and stop l0g defense on all but 1 user.
+
+alpha: (re: "once they all migrate their gc") I think this already happened
+
+dtr: there's a couple more to go.
+
+ghamb: so
+a perfect defense then?
+
+dtr: no, just one where the benefits outweigh the costs.
+
+ghamb: that's already the case
+how much gc has zez actually taken vs the amount you hold
+
+dtr: i don't mean, like, i earn gc by defending
+i mean *all* the benefits. to the server, to the community. and all the costs, again.
+he's taken between 30 and 35T and that has resulted in losses of around 45T (the other 10T being in fees and antes)
+which is approximately 300% of my personal GC, and .... i dunno, 15% of all the GC i hold, give or take.
+
+ghamb: right thats gc without largely a purpose
+gc that by all rights, without should not exist in those hands anymore
+
+dtr: i mean, it's the gc i use to pay for my crons. remember i don't farm. when it runs out, it runs out.
+
+matrix: So what ur tryna say ghem is people are attempting to have their cake and eat it too
+
+ghamb: essentially
+seemingly at the cost of dtrs sanity, somewhat
+
+dtr: ye. basically, the gc we have is no longer farmable, so it's worth protecting
+if this kind of gc could be made back i wouldn't care about losing it
+but it can't be.
+( honestly: game needs a reset. convert all glams to badges, nuke the world, just keep users, make them all empty, re-roll locs )
+
+matrix: (same time as previous) How about MUD reset
+
+sym: totally in favor of mud reset
+the entire state of the game is still practically determined by things that happened in beta
+
+ghamb: the problem is
+a mud reset doesnt address or solve any problems
+
+sym: it doesn't address *all* problems
+I would argue it addresses some
+
+ghamb: in the short term, id agree
+
+sym: periodic mud resets
+call them seasons
+bam, short term fix is all you need
+lore reasons for periodic reset should be ez
+
+alpha: (re: "the entire state of the game is still practically determined by things that happened in beta" from sym)
+What?
+
+sym: the whole distribution of gc is still skewed by the very first gibson
+
+ghamb: not remotely as heavily as the first few years
+
+alpha: nah
+That GC is largely gone. Or dwarfed by the resources gained since then.
+
+sym: idk, I see it as an inevitable chain of events since then
+
+spanospy: What about if the MUD was kept mostly as it was, but we could also access riskspace as a separate multi-user domain? Just throwing theories and ideas around.
+
+dtr: KAH (ED NOTE: kahoots; alpha, ast, kaitlyn mostly) gc is from farming when farming was easy
+my GC is from gibbers
+
+ghamb: i dont see those inevitabilities being nonpresent given a reset
+
+sym: fair point
+definitely the farming nerf makes a big difference tho
+
+alpha: Ignoring my personal feelings for a second, a MUD reset would probably result in many people leaving the game.
+
+sym: would it actually?
+
+alpha: It's demotivating to have everything you worked for deleted
+[ jacob and a new player express agreement with the above ]
+
+dtr: ye. that;s the problem. that change means this gc is never going to be replaceable. so it's basically a glam. defend it for the sake of having it, with no intention of ever using it
+
+alpha: I mean, if my GC was stolen I probably wouldn't quit.
+If a MUD reset occured and *everything* (minus glams) was wiped, I would probably consider it
+
+dtr: stolen -> i quit
+reset -> i rejoice
+
+sym: I literally don't see the difference
+items are replaceable
+scripts can't be reset
+
+alpha: I agree the resource disparity is a serious issue, and one that's not easily fixable.
+
+sym: mud reset just wipes out the stuff that is broken from a past mud life
+when getting those resources was possible
+
+sym: legit question
+@dtr if you could buy a badge for (unreasonable sum that can't exist anymore)
+would you do it
+
+dtr: in theory yes. in practice, my personal net worth is approximately -30 TGC.
+so unless I bought it with otuer people's GC, i can't
+if i still had GC to my name, in a heartbeat.
+
+alpha: I would gladly burn 90% of my GC on a cosmetic.
+ast would probably do the same
+Because it's mostly a trophy. We can't really use it.
+
+sym: exactly
+
+dtr: and badges can't be taken.
+
+zez: I would gladly steal 90% of alphas gc to spend on a cosmetic
+
+alpha: Resource disparity is an issue but I wouldn't say it's one of the important ones. zez's botnet is self-sustaining and he would profit if he didn't use it.
+The fact that the ability to obtain GC is largely p2w wouldn't be fixed by a MUD reset
+
+sym: that's true
+
+sym: I also think l0g is broken, as well as a few other things
+
+piou (new player): of the 1Q and a half in the mud, how much of it is "locked" away ?
+
+dtr: i'd estimate... 700T in player hands? Maybe 8.
+
+matrix: the only money I’d say is properly locked away rn is on alpha’s loc
+because of essentially a bug
+
+dtr: ye but i can double that in 20 minutes if needed.
+i just don't want to take that step
+
+alpha: dtr has the loc. He could betray me and hack it.
+zez: pls
+
+dtr: ye, i could make that gc disappear. i could make that gc grow drastically.
+i choose to not do either.
+
+matrix: The sheer amount of GC that alpha and co have in reserves also affects RMT a ton too imo
+I have to price my bits in a way that scales to their absurd wealth
+If that was dispersed bits could be much cheaper
+
+dtr: such a hardship for you
+
+alpha: Tbf that's to your benefit. Bits should be expensive since they're basically a premium currency.
+
+matrix: Right, but reasonably expensive to a point where a new player can in theory grind for slots
+You have to kill 200 t3s to get one user slot with the current going rates
+
+alpha: That's not too difficult once it's automated
+
+zez: whats the price of 5k bits?
+
+matrix: 5k bits is about 1T
+
+ast: re "if there were a huge gc sink we'd use it"
+see how much we're buying bits
