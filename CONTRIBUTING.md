@@ -123,3 +123,4 @@ A reviewer's job is to ensure that the answer to all these questions is 'yes'. O
 - [ ] Have manual testing requirements been done? (e.g. hackmudclient needs manual testing on windows)
 - [ ] Does any documentation need to be updated or created?
 - [ ] Is a migration required for this change? (e.g. marks schema migration, account or user schema migration)
+- [ ] Was all debugging output code removed from the change?
