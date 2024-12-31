@@ -110,3 +110,17 @@ In general, reviewers are acting in the role of maintainers in the open-source m
 1. Share non-blocking improvement feedback
    1. Things like typos, spelling errors, capitalization, rephrasing (Depending on repo-specific styles some of these might be required)
    1. Ask questions for reviewer's own understanding & learning
+
+#### The reviewer checklist
+
+A reviewer's job is to ensure that the answer to all these questions is 'yes'. Only then should a PR be approved.
+
+- [ ] Does the PR have a problem statement that is clear and for an existing agreed upon quality bar? (subjective: typos, color strings, etc)
+  - [ ] Does this PR have an issue associated with it?
+  - [ ] Was the issue triaged?
+- [ ] Does the PR fix only the issue or problem statement described in the simplest way? (subjective)
+- [ ] Does the PR have sufficient test coverage? (subjective: does it need tests? do they exist? are they in the pr?)
+- [ ] Have manual testing requirements been done? (e.g. hackmudclient needs manual testing on windows)
+- [ ] Does any documentation need to be updated or created?
+- [ ] Is a migration required for this change? (e.g. marks schema migration, account or user schema migration)
+- [ ] Was all debugging output code removed from the change?
